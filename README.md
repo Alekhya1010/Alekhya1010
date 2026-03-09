@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Alekhya
 
 IPA (linguistic phonetic notation) - /əˈleːkʰjɑː/
+
 Think of it like: “uh-LAKE-yaa”
 
 Senior Quality Engineer with 10+ years of experience in software testing and quality engineering, currently pursuing an MTech in Data Science. I'm passionate about transforming data into insights and building intelligent systems that solve real-world problems.
